@@ -3,3 +3,4 @@ Git is a fast scalable and distributed revision control system  with an unusuall
 
 just  a test
 Creating a new branch is quic
+Creating a new branch is quick AND simple.
